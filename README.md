@@ -1,5 +1,5 @@
 # Assignment
-The 1st assignment of web development project (66643)
+The 1st assignment of web development (66643)
 
 ## Task:
 Design a website using HTML, CSS and Bootstrap.
