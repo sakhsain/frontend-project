@@ -1,10 +1,12 @@
-# Assignment
-The 1st assignment of web development (66643)
+# 🗂️📂📁 Assignment
+The 1st assignment of web development (66643).
 
-## Task:
+## ✒️ Task:
 Design a website using HTML, CSS and Bootstrap.
 
-## Screenshots:
-### Homepage:
-![Homepage](screenshots/screenshot.png).
-### Live site : <a href="https://sakhwat-hossain.com/assignment/">https://sakhwat-hossain.com/assignment/</a>
+## 🖼️ Screenshots:
+### 🌏 Homepage:
+![Homepage](screenshots/screenshot.png)
+
+### 🌎 Live site : 
+<a href="https://sakhsain.github.io/assignment/">https://sakhsain.github.io/assignment/</a>
