@@ -1,4 +1,4 @@
-# 🗂️📂📁 Assignment
+# 📝 Assignment
 The 1st assignment of web development (66643).
 
 ## ✒️ Task:
