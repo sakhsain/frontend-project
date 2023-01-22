@@ -9,4 +9,4 @@ Design a website using HTML, CSS and Bootstrap.
 ![Homepage](screenshots/screenshot.png)
 
 ### 🌎 Live site : 
-<a href="https://sakhsain.github.io/assignment/">https://sakhsain.github.io/assignment/</a>
+<a href="https://sakhsain.github.io/frontend-assignment">https://sakhsain.github.io/frontend-assignment/</a>
