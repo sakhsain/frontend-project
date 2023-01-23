@@ -1,3 +1,6 @@
+## ✒️ Task:
+> Design a website using HTML, CSS and Bootstrap.
+
 # 📝 Abstract
 The 1st assignment of web development (66643).
 
@@ -8,12 +11,9 @@ The 1st assignment of web development (66643).
 <li>Samia Akter</li>
 </ul>
 
-## ✒️ Task:
-Design a website using HTML, CSS and Bootstrap.
-
 ## 🖼️ Screenshots:
 ### 🌏 Homepage:
 ![Homepage](screenshots/screenshot.png)
 
 ### 🌎 Live site : 
-<a href="https://sakhsain.github.io/frontend-assignment">https://sakhsain.github.io/frontend-assignment/</a>
+<a href="https://sakhsain.github.io/frontend-project">https://sakhsain.github.io/frontend-project/</a>
