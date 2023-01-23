@@ -2,7 +2,7 @@
 > Design a website using HTML, CSS and Bootstrap.💥🌤️
 
 # Team Members
-<b>Team Name: </b> front-end matters, _Dhaka Polytechnic Institute_.
+<b>Team Name: </b> Front-end Matters, _Dhaka Polytechnic Institute_.
 Dhaka, Bangladesh 🇧🇩.
 | Name                                                | Department                    | Shift   | Group | Roll   |
 | --------------------------------------------------- | ----------------------------- | ------- | ----- | ------ |
