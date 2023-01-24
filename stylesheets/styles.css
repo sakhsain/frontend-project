@@ -27,10 +27,14 @@
  position: relative;
  }
  
- .container {
+ .content {
  color:white;
  }
  
+.container {
+ color: black;
+}
+
  .h2fortitle {
  font-family: 'Luckiest Guy', cursive;
  font-size: 50px; 
