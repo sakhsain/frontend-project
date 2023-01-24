@@ -6,7 +6,7 @@
 Dhaka, Bangladesh 🇧🇩.
 | Name                                                | Department                    | Shift   | Group | Roll   |
 | --------------------------------------------------- | ----------------------------- | ------- | ----- | ------ |
-| [Sakhawat Hossain](#)                                   | Computer Science & Technology | Morning | B     | 559652 |
+| [Sakhawat Hossain](https://github.com/sakhsain)                                   | Computer Science & Technology | Morning | B     | 559652 |
 | [Anita Rahman](#)                                      | Computer Science & Technology | Morning | B     | 559653 |
 | [Samia Akter](#) | Computer Science & Technology | Morning | B     | 559654 |
 | [Sadman Sami](#) | Computer Science & Technology | Morning | B     | 559654 |
@@ -17,8 +17,13 @@ Dhaka, Bangladesh 🇧🇩.
 <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> </p>
 
 ## 🖼️ Screenshots:
-### 🌏 Homepage:
+
 ![Homepage](screenshots/screenshot.png)
+![Team](screenshots/Team%20-%20DPIITS.png)
+![Registration](screenshots/Registration%20-%20DPIITS.png)
+![About](screenshots/About%20-%20DPIITS.png)
+![Contact](screenshots/Contact%20Us%20-%20DPIITS.png)
+
 
 ### 🌎 Live site : 
 <a href="https://sakhsain.github.io/frontend-project">https://sakhsain.github.io/frontend-project/</a>
