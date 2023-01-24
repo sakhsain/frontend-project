@@ -1,6 +1,6 @@
 /* style for hero img and text */
  .hero {
- background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://raw.githubusercontent.com/sakhsain/assignment/main/assets/dpi.jpg");
+ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero-imgs/dpi.jpg");
  height: 50%;
  background-position: center;
  background-repeat: no-repeat;
@@ -19,7 +19,7 @@
 
 /* styles for hero-story */
 .hero-story {
- background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://raw.githubusercontent.com/sakhsain/assignment/main/assets/dpi-ground.jpg");
+ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero-imgs/dpi-ground.jpg");
  height: 50%;
  background-position: center;
  background-repeat: no-repeat;
