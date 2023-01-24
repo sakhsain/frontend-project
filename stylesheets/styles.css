@@ -16,6 +16,84 @@
  transform: translate(-50%, -50%);
  color: white;
  }
+
+/* styles for hero-story */
+.hero-story {
+ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://raw.githubusercontent.com/sakhsain/assignment/main/assets/dpi-ground.jpg");
+ height: 50%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+ }
+ 
+ .container {
+ color:white;
+ }
+ 
+ .h2fortitle {
+ font-family: 'Luckiest Guy', cursive;
+ font-size: 50px; 
+ color: white;
+ 
+ }
+ 
+/* styles for hr */
+ hr.primary {
+ 
+ text-align: center;
+ border:2px solid white;
+ }
+
+/* styles for gallery */
+div.gallery {
+  border: 2px solid white;
+}
+
+div.gallery:hover {
+  border: 1px solid white;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  color:white;
+  padding: 12px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .form {
  color: white;
  }
