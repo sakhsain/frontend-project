@@ -9,6 +9,7 @@ Dhaka, Bangladesh 🇧🇩.
 | [Sakhawat Hossain](https://github.com/sakhsain)                                   | Computer Science & Technology | Morning | B     | 559652 |
 | [Anita Rahman](#)                                      | Computer Science & Technology | Morning | B     | 559653 |
 | [Samia Akter](#) | Computer Science & Technology | Morning | B     | 559654 |
+| [Shahariar Emon](#) | Computer Science & Technology | Morning | B     | 559640 |
 | [Sadman Sami](#) | Computer Science & Technology | Morning | B     | 559649 |
 
 <h3 align="left">Languages and Tools:</h3>
