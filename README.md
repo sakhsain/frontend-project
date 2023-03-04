@@ -7,7 +7,7 @@ Dhaka, Bangladesh 🇧🇩.
 | Name                                                | Department                    | Shift   | Group | Roll   |
 | --------------------------------------------------- | ----------------------------- | ------- | ----- | ------ |
 | [Sakhawat Hossain](https://github.com/sakhsain)                                   | Computer Science & Technology | Morning | B     | 559652 |
-| [Anita Rahman](#)                                      | Computer Science & Technology | Morning | B     | 559653 |
+| [Anita Rahman](https://github.com/anitaturna)                                      | Computer Science & Technology | Morning | B     | 559653 |
 | [Samia Akter](#) | Computer Science & Technology | Morning | B     | 559654 |
 | [Shahariar Emon](#) | Computer Science & Technology | Morning | B     | 559640 |
 | [Sadman Sami](#) | Computer Science & Technology | Morning | B     | 559649 |
