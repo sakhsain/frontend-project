@@ -21,7 +21,7 @@ Dhaka, Bangladesh 🇧🇩.
 
 ![Homepage](screenshots/screenshot.png)
 ![Team](screenshots/Team%20-%20DPIITS.png)
-![Registration](screenshots/Registration%20-%20DPIITS.png)
+![Registration](https://raw.githubusercontent.com/sakhsain/frontend-project/main/screenshots/Registration%20-%20DPIITS%20(1).png)
 ![About](screenshots/About%20-%20DPIITS.png)
 ![Contact](screenshots/Contact%20Us%20-%20DPIITS.png)
 
